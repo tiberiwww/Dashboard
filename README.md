@@ -1,7 +1,7 @@
 # Dashboard
 
 Admin Dashboard Project
-Live Demo:
+Live Demo: 
 https://tiberiwww.github.io/Dashboard/
 
 Dashboard Website, created using only HTML and CSS.
